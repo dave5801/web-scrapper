@@ -10,8 +10,3 @@ function get_search_results(searchInput){
 }
 
 export {get_search_results};
-
-
-console.log(searchInput._words);
-
-let search_results = function(searchInput._words){};
